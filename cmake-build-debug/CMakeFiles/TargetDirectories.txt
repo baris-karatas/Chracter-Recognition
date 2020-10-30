@@ -1,0 +1,3 @@
+/Users/blackstone/Desktop/Character_recog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/blackstone/Desktop/Character_recog/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/blackstone/Desktop/Character_recog/cmake-build-debug/CMakeFiles/Character_recog.dir

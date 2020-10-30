@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Character_recog"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\opencv\;CMake Files\..\..\opencv\opencv\;CMake Files\..\..\opencv\opencv\build\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/blackstone/Desktop/Character_recog/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/blackstone/Desktop/Character_recog/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/blackstone/Desktop/Character_recog/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Character_recog">
+				<Option output="/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Character_recog" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/blackstone/Desktop/Character_recog/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/blackstone/opencv/opencv/build"/>
+					<Add directory="/Users/blackstone/opencv/opencv/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/core/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/flann/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/imgproc/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/ml/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/photo/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/dnn/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/features2d/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/imgcodecs/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/videoio/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/calib3d/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/highgui/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/objdetect/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/stitching/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/ts/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/video/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/gapi/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 Character_recog"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Character_recog/fast">
+				<Option output="/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Character_recog" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/blackstone/Desktop/Character_recog/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/blackstone/opencv/opencv/build"/>
+					<Add directory="/Users/blackstone/opencv/opencv/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/core/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/flann/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/imgproc/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/ml/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/photo/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/dnn/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/features2d/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/imgcodecs/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/videoio/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/calib3d/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/highgui/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/objdetect/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/stitching/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/ts/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/video/include"/>
+					<Add directory="/Users/blackstone/opencv/opencv/modules/gapi/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 Character_recog/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/blackstone/Desktop/Character_recog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/blackstone/Desktop/Character_recog/main.cpp">
+			<Option target="Character_recog"/>
+		</Unit>
+		<Unit filename="/Users/blackstone/Desktop/Character_recog/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/blackstone/Desktop/Character_recog/../../opencv/opencv/build/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\opencv\opencv\build\"/>
+		</Unit>
+		<Unit filename="/Users/blackstone/Desktop/Character_recog/../../opencv/opencv/build/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\opencv\opencv\build\"/>
+		</Unit>
+		<Unit filename="/Users/blackstone/Desktop/Character_recog/../../opencv/opencv/build/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\opencv\opencv\build\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
