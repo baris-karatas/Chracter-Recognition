@@ -13,4 +13,8 @@ in this files I check pixsels of chracters on by one and making decisions.
 
 in test file contain images to recognization;
 
-![alt text](test/IMG_1957.jpeg)
+![alt text](test/IMG_1957.jpeg)  ==>> this img size is 134 × 136 px we have to resize img to 20x30 and convert to wihite and black img
+
+
+![alt text](test/img_2.jpeg) 
+
