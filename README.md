@@ -13,8 +13,11 @@ in this files I check pixsels of chracters on by one and making decisions.
 
 in test file contain images to recognization;
 
-![alt text](test/IMG_1957.jpeg)  ==>> this img size is 134 × 136 px we have to resize img to 20x30 and convert to wihite and black img
+![alt text](test/IMG_1957.jpeg)  ==>> this img size is 134 × 136 px we have to resize img to 20x30 and convert to wihite and black img.In main.cpp file I wrote a function which nemed "img_transport()"
 
 
-![alt text](test/img_2.jpeg) 
+
+![alt text](test/img_2.jpeg) after this conversation KNN algorithm can recognize this img and specify it.
+
+But we have a troble. when converting images W&B I shold specify threshold value but this value is a variable and the optimum number can changer for every single img. then ı developed an algorithm .it can adaptive threshold for every images then I can get the perfect 
 
