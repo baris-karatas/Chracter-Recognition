@@ -19,5 +19,5 @@ in test file contain images to recognization;
 
 ![alt text](test/img_2.jpeg) after this conversation KNN algorithm can recognize this img and specify it.
 
-But we have a troble. when converting images W&B I shold specify threshold value but this value is a variable and the optimum number can changer for every single img. then ı developed an algorithm .it can adaptive threshold for every images then I can get the perfect 
+But we have a troble. when converting images W&B I shold specify threshold value but this value is a variable and the optimum number can changer for every single img. then ı developed an algorithm .it can adaptive threshold for every images then I can get the perfect white and black balance 
 
