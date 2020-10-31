@@ -11,3 +11,4 @@ in this files I check pixsels of chracters on by one and making decisions.
 
 
 
+in test file contain images to recognization;
