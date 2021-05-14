@@ -214,14 +214,4 @@ void printing_img(vector<int>&img,int indx){
         colum++;
     }
 }
-/*void Defnenin_fonksiyonu(vector<int>&Train_pix){
-    int i=0;
-   int array[16]={4,75,10,18,20,10,74,10,75,75,10,9,487,19,487,75};
-   for(i=0;i<9;i++){
-       printing_img(Train_pix,array[i]);
-      sleep(1);
-   }
 
-
-}
-*/
